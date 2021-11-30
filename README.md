@@ -12,3 +12,8 @@ The provided python scripts reproduce the figures in the above mentioned paper, 
 
 * `ODEdrop2D.py`, which implements the solver of the asymptotic model
 * `pdeloader.py` is a python script that loads matlab files which contain PDE solutions.
+
+## Acknowledgement
+
+This work has received funding through the Engineering and Physical Sciences Research Council of the United Kingdom through Grant No. EP/P505453/1 and from the European 
+Union’s Horizon 2020 research and innovation program under Grant No. 810660.
